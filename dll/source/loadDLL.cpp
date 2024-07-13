@@ -62,3 +62,6 @@ int main()
 
     return 0;
 }
+
+
+// Compile and link with g++ -o loadDLL.exe loadDLL.cpp
